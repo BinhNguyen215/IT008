@@ -71,7 +71,7 @@
     - Meet project deadlines and communicate in advance if delays are expected.
     - Prioritize time management for efficient project progress.
 
-By participating in [Your Project Name], you agree to abide by this code of conduct. This code may be updated as needed, and it is your responsibility to stay informed about any changes.
+By participating in Project5_IT008_Figma_UI/UX, you agree to abide by this code of conduct. This code may be updated as needed, and it is your responsibility to stay informed about any changes.
 
 Thank you for contributing positively to our small team project!
 
