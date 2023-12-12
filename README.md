@@ -1,9 +1,9 @@
 ![UIT](https://img.shields.io/badge/from-UIT%20VNUHCM-blue?style=for-the-badge&link=https%3A%2F%2Fwww.uit.edu.vn%2F)
 
 [Project5_IT008_Figma_UI/UX]
-
+<p align="center">
 ![image](https://github.com/BinhNguyen215/IT008/assets/127644891/20577098-f12b-49ba-b37b-48a9b3ca9539)
-
+</p>
 
 **Contributors**:
 
@@ -13,6 +13,7 @@
 - Member: Đặng Quốc Bảo - 22520098 - [Github](https://github.com/bdquoc)
 
 **Supervisors**:
+- Vu Tuan Hai - [Github](https://github.com/vutuanhai237/)
 
 - [IT008_Figma_Project_Artemis - [Figma](https://www.figma.com/file/XQfo0uuY3MfSRwvptVtpkh/IT008_Figma_Project?type=design&node-id=417%3A615&mode=design&t=6cZ3cXuSaKOZidlK-1)
 
