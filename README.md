@@ -17,7 +17,7 @@
 
 - [IT008_Figma_Project_Artemis - [Figma](https://www.figma.com/file/XQfo0uuY3MfSRwvptVtpkh/IT008_Figma_Project?type=design&node-id=417%3A615&mode=design&t=6cZ3cXuSaKOZidlK-1)
 
-**Video demo**: Link to youtube video
+**Video demo**: [youtube](https://youtu.be/Tzt6XjcL_qI?si=BN_KMxUNCyZLC6_Q)
 
 **Description**: "Introducing Artemis, where style meets simplicity. Our innovative clothes app design seamlessly blends an intuitive user interface with visually stunning features, offering a personalized and enjoyable shopping experience. Explore the latest fashion trends effortlessly, discover curated collections, and shop with ease. Elevate your wardrobe with just a few taps. Artemis – Redefining Fashion, Redefining You."
 
