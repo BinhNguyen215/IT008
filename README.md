@@ -1,6 +1,6 @@
 ![UIT](https://img.shields.io/badge/from-UIT%20VNUHCM-blue?style=for-the-badge&link=https%3A%2F%2Fwww.uit.edu.vn%2F)
 
-[Project5_IT008_Figma_UI/UX]
+[Project5_IT008_Figma_UI/UX_Artemis]
 
 ![image](https://github.com/BinhNguyen215/IT008/assets/127644891/20577098-f12b-49ba-b37b-48a9b3ca9539)
 
