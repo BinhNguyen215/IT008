@@ -15,7 +15,7 @@
 **Supervisors**:
 - Vu Tuan Hai - [Github](https://github.com/vutuanhai237/)
 
-- [IT008_Figma_Project_Artemis - [Figma](https://www.figma.com/file/XQfo0uuY3MfSRwvptVtpkh/IT008_Figma_Project?type=design&node-id=417%3A615&mode=design&t=6cZ3cXuSaKOZidlK-1)
+- IT008_Figma_Project_Artemis - [Figma](https://www.figma.com/file/XQfo0uuY3MfSRwvptVtpkh/IT008_Figma_Project?type=design&node-id=417%3A615&mode=design&t=6cZ3cXuSaKOZidlK-1)
 
 **Video demo**: [youtube](https://youtu.be/Tzt6XjcL_qI?si=BN_KMxUNCyZLC6_Q)
 
